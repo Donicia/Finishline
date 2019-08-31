@@ -1,7 +1,9 @@
 ETL PROJECT
 
 Elizabeth Mendoza
+
 Gustavon Duenos
+
 Donicia Williams
 
 We decided to focus our data search on Kaggle.com for the world major marathon winners. We were able to pull csv files that contained a list of all previous winners. The world major marathons are in Boston, Tokyo, New York, Chicago, Berlin and London. For our ETL project we focused on the male and female winners in Boston. 
