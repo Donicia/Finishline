@@ -8,13 +8,23 @@ The final database was created using PostgreSQL. The database contains two table
 Summary of steps to create and access database: 
 
 •	Go to Kaggle.com and search world major marathons 
+
 •	Download csv files 
+
 •	Create a Jupyter Notebook
+
 •	Import dependencies: sqlalchemy pandas
+
 •	Import/Read csv files using ISO8859_15 and pandas 
+
 •	Create a data frame for each csv file
+
 •	Drop Notes and States columns to keep more runner year information. 
-•	Open PostgreSQL and create a new table to hold csv information
-•	Establish a connection on Jupyter Notebook with PostgreSQL 
-•	Load in csv files 
-•	Check in Jupyter Notebook that table was created, and information was loaded by querying each respective table name 
+
+•	Open PostgreSQL and create a new table to hold csv information.
+
+•	Establish a connection on Jupyter Notebook with PostgreSQL,
+
+•	Load in csv files.
+
+•	Check in Jupyter Notebook that table was created, and information was loaded by querying each respective table name.
