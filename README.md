@@ -1,5 +1,11 @@
 ETL PROJECT
 
+Elizabeth Mendoza
+
+Gustavon Duenos
+
+Donicia Williams
+
 We decided to focus our data search on Kaggle.com for the world major marathon winners. We were able to pull csv files that contained a list of all previous winners. The world major marathons are in Boston, Tokyo, New York, Chicago, Berlin and London. For our ETL project we focused on the male and female winners in Boston. 
 
 For extraction we downloaded the csv files from kaggle.com. From the raw csv files, we created a Jupyter Notebook to be able to manipulate the data accordingly. During the read portion of loading the csv files we encountered encoding issues with the extraction Unicode transformation format. After much research we were able to utilize ISO8859_15 to help extract and read the file. Cleaning the data involved dropping all N/A fields and the columns titled note and state. After data was cleaned, we set index to year. 
