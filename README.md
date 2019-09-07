@@ -1,8 +1,8 @@
 ETL PROJECT
 
-Elizabeth Mendoza
+Elizabeth Duenas 
 
-Gustavon Duenos
+Gustavo Mendoza 
 
 Donicia Williams
 
